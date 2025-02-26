@@ -70,7 +70,7 @@ if test_failed:
 |   |-- REQ_SPE.pdf
 |
 |-- README.md
-|-- requirements.txt
+
 ```
 
 ## **Contributing**
